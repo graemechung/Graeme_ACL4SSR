@@ -9,6 +9,7 @@ The primary goal is to manage and version-control this single configuration file
 - **ACL4SSR Repository:** https://github.com/ACL4SSR/ACL4SSR
 
 **Workflow Notes:**
+- **CRITICAL:** After any change to the configuration, update the `README.md` with a new entry in the "Update History" section.
 - To reference a specific ACL4SSR ruleset, find its "Raw" URL on GitHub and provide it to me.
 - To apply changes based on `subconverter`'s documentation, provide the documentation URL.
 - Do not clone the entire ACL4SSR repository.
